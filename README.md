@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/064551243688302d116585d67e59e6a4f9b5a595d688afc6f4e1977cd485eb33/68747470733a2f2f6d65646961312e67697068792e636f6d2f686561646572732f4769744875622f77385a4a4c744a626d7570682e676966)](https://github.com/Jesh-17/)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)](https://github.com/Jesh-17/)
 
 <h1 align="center">Hi 👋, I'm Rajesh Jeshvin😊</h1>
 <h3 align="center">👩‍💻 A passionate DevOps enthusiast from India</h3>

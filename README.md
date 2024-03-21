@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/36709d54e38fd194750e652b5b94a96dce00565136de57122446eac83bcb8287/68747470733a2f2f7374617469632e70696e676361702e636f6d2f66696c65732f323032322f31322f30353037323730372f636861744750542d4769744875622d62616e6e65722e6a7067)](https://github.com/Jesh-17/)
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnmol-Baranwal%2FCool-GIFs-For-GitHub&psig=AOvVaw2_aq6GebXOpRODccZ-jmnk&ust=1711084695343000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMi7vLDNhIUDFQAAAAAdAAAAABAQ)](https://github.com/Jesh-17/)
 
 <h1 align="center">Hi 👋, I'm Rajesh Jeshvin😊</h1>
 <h3 align="center">👩‍💻 A passionate DevOps enthusiast from India</h3>

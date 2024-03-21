@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)](https://github.com/Jesh-17/)
+[![MasterHead](https://github.blog/wp-content/uploads/2021/01/102393310-07478b80-3f8d-11eb-84eb-392d555ebd29.png?fit=1200%2C630)](https://github.com/Jesh-17/)
 
 <h1 align="center">Hi 👋, I'm Rajesh Jeshvin😊</h1>
 <h3 align="center">👩‍💻 A passionate DevOps enthusiast from India</h3>

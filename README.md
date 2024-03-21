@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Rajesh Jeshvin😊</h1>
 <h3 align="center">👩‍💻 A passionate DevOps enthusiast from India</h3>
 <a href="https://github.com/Jesh-17/">
-<img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/19783675/259906130-5d3c8800-fb00-45d0-b9dd-7eb82f057baf.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MDI4MDU1NTcsIm5iZiI6MTcwMjgwNTI1NywicGF0aCI6Ii8xOTc4MzY3NS8yNTk5MDYxMzAtNWQzYzg4MDAtZmIwMC00NWQwLWI5ZGQtN2ViODJmMDU3YmFmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFJV05KWUFYNENTVkVINTNBJTJGMjAyMzEyMTclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjMxMjE3VDA5MjczN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTgzMmRjOTc0MDFhZWYwZWRkMmIyMjdlZTMxYjY4NTE1MDMzMGNhY2UxZWEyMDY1NjAyYWM3ZWFlYjgxMDZkMmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.w0L9fSSaq5UDy753XWxiZ5Ffcphy_aMuhoDWZgb9sfo">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 </a>
 <a href="https://github.com/Jesh-17/">
   <img align="left" src="https://komarev.com/ghpvc/?username=jesh-17&label=Profile%20views&color=0e75b6&style=flat" alt="jesh-17" /></br>

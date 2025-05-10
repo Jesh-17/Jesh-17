@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Computer Science , Programming ,Mathematics,...**
 
-- 📫 How to reach me **rajeshjeshvin17@gmail.com**
+- 📫 How to reach me **rajeshsadhu026@gmail.com**
 
 - ⚡ Fun fact **When I'm not active,you can find me on the cricket field!!😂**
 
